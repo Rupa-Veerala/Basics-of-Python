@@ -70,6 +70,7 @@ a) Numeric
  e) Dictionaries
 
 **TYPECASTING**
+
 -->Type casting means type conversion.
 
 -->Two types of conversion
@@ -82,7 +83,7 @@ a) Numeric
    
  Eg: b = 3.14
  
- **Comments**
+ **COMMENTS**
  
  1) Comments are used mainly in two cases 
      a) To avoid a line of code from running/executing
