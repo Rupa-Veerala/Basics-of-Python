@@ -134,3 +134,24 @@ a) Single line comments ( # )
      passed have to be separated.
  
  a) Eg: print(a,b,sep=’\n’)
+
+ **Operators**
+ 
+ 1) Arithmetic operators
+    
+ ● +, -, *, /, %, **, //
+ 
+ 2) Assignment operators
+    
+ ● =, +=, -=, *=, /=, and so on
+ 
+ 3) Comparison operators
+    
+ ● >, <, >=, <=, ==, !=
+ 
+ 4)Logical operators
+ 
+ ● and, or, not
+ 
+ 5) Bitwise operators
+ ● &, |, ^, ~, >>, <<
