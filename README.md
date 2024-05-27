@@ -139,19 +139,19 @@ a) Single line comments ( # )
  
  1) Arithmetic operators
     
- ● +, -, *, /, %, **, //
+   +, -, *, /, %, **, //
  
  2) Assignment operators
     
- ● =, +=, -=, *=, /=, and so on
+    =, +=, -=, *=, /=, and so on
  
  3) Comparison operators
     
- ● >, <, >=, <=, ==, !=
+   >, <, >=, <=, ==, !=
  
  4)Logical operators
  
- ● and, or, not
+   and, or, not
  
  5) Bitwise operators
- ● &, |, ^, ~, >>, <<
+    &, |, ^, ~, >>, <<
