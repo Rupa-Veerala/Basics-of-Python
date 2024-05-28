@@ -136,6 +136,24 @@ and, or, not
 
 Bitwise operators &, |, ^, ~, >>, <<
 
+**Precedence**
+
+Shortcut---> PEMDAS
+
+highest---()
+
+p--> Parenthess
+
+E--> Exponential
+
+M--> Multiplication
+
+D--> Division
+
+A--> Addition
+
+S--> Subtraction
+
 **CONDITIONAL STATEMENTS**
 
 These are used when you need to do something depending on whether or not a condition is satisfied.
