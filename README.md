@@ -313,6 +313,16 @@ set {}
 
 function--> Group/block of code.
 
+**Recursion**
+
+A function calling itself is called recursion.
+
+In looping recursion will happen.
+
+                          **This repository all about basics of Python upto Recursion** 
+
+                                    **Prepared by Rupa 🤍**
+
 
 
 
