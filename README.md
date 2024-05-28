@@ -254,6 +254,7 @@ list and tuple can store any type of datatypes like int, float, complex.
 4-properties:
 
  list           tuple
+ 
 ordered ----         Yes             Yes
 
 Indexed ----         Yes             Yes
@@ -286,6 +287,7 @@ we can add values in list.
 4-properties:
 
 Set            Dict
+
 ordered ----         No             Yes
 
 Indexed ----         No             Yes
