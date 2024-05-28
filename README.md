@@ -244,3 +244,73 @@ The pass statement is generally used as a placeholder i.e. when the user does no
 1) These are collections of characters.
    
 2) Characters can be anything like letters, numbers, special characters.
+
+**Lists & Tuples**
+
+list and tuple are collection based datatypes.
+
+list and tuple can store any type of datatypes like int, float, complex.
+
+4-properties:
+
+                     list           tuple
+ordered ----         Yes             Yes
+
+Indexed ----         Yes             Yes
+
+Mutable ----         Yes             NO
+
+Duplicate
+allowed ----        Yes             Yes
+
+Modifable ---       Yes             No
+
+Mutable means we can change.
+
+immutable means we can't change once created.
+
+if it is ordered means automatically it is indexed.
+
+not ordered means not indexed.
+
+list indicated as []
+
+tuple indicated as ()
+
+we can't assign any value in tuple.
+
+we can add values in list.
+
+**Sets and Dictonaries**
+
+4-properties:
+
+                     Set            Dict
+ordered ----         No             Yes
+
+Indexed ----         No             Yes
+
+Mutable ----         No             Yes
+
+Duplicate
+allowed ----        No              No
+
+dict is 3.6 version and earlier are unordered
+
+After 3.7 it is ordered.
+
+In dict comparsion won't be possible.
+
+dict is a collection of keys values pair.
+
+{ :  }
+
+set {}
+
+**Functions**
+
+function--> Group/block of code.
+
+
+
+
