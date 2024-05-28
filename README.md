@@ -253,7 +253,7 @@ list and tuple can store any type of datatypes like int, float, complex.
 
 4-properties:
 
- list           tuple
+ list                         tuple
  
 ordered ----         Yes             Yes
 
